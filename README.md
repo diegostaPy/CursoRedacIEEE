@@ -4,14 +4,14 @@
 Este repositorio tiene como objetivo proporcionar a los estudiantes los recursos necesarios para aprender a redactar documentos científicos de acuerdo con las normas del Instituto de Ingenieros Eléctricos y Electrónicos (IEEE).
 
  	
-[link name](https://www.facebook.com/rasunapy/)
+[Pagina de la RAS de la UNA](https://www.facebook.com/rasunapy/)
 ## ¿Qué encontrarás en este repositorio?
 
 - **Material del Seminario:**
-    - Presentaciones en PDF
+    - Presentación en PDF
     - Plantillas de documentos IEEE
     - Ejemplos de documentos IEEE
-    - Artículos y libros sobre el tema
+    - Artículo sobre el tema
 
 - **Información de contacto:**
     - Correo electrónico del instructor: dstalder@ing.una.py
