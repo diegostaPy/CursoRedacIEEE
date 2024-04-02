@@ -1,8 +1,10 @@
 # CursoRedacIEEE
-# ¡Bienvenido al repositorio del Seminario sobre Redacción Científica IEEE!
+# ¡Bienvenido al repositorio del Seminario sobre Redacción Científica IEEE organizado por la RAS de la UNA!
 
 Este repositorio tiene como objetivo proporcionar a los estudiantes los recursos necesarios para aprender a redactar documentos científicos de acuerdo con las normas del Instituto de Ingenieros Eléctricos y Electrónicos (IEEE).
 
+ 	
+[link name](https://www.facebook.com/rasunapy/)
 ## ¿Qué encontrarás en este repositorio?
 
 - **Material del Seminario:**
@@ -14,4 +16,3 @@ Este repositorio tiene como objetivo proporcionar a los estudiantes los recursos
 - **Información de contacto:**
     - Correo electrónico del instructor: dstalder@ing.una.py
 
-¡Esperamos que este repositorio te sea útil para aprender a redactar documentos científicos de manera efectiva!
